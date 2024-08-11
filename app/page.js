@@ -1,7 +1,10 @@
 import About from "@/components/About";
 import Appointments from "@/components/Appointments";
+import Contactus from "@/components/Contactus";
 import Customerreviews from "@/components/Customerreviews";
+import Footer from "@/components/Footer";
 import Header from "@/components/Header";
+import InstagramReels from "@/components/InstagramReels";
 import Mainsection from "@/components/Mainsection";
 import Services from "@/components/Services";
 
@@ -15,9 +18,12 @@ export default function Home() {
       <Header></Header>
       <Mainsection></Mainsection>
       <Appointments></Appointments>
+      <InstagramReels></InstagramReels>
       <Services></Services>
-      <Customerreviews></Customerreviews>
       <About></About>
+      <Customerreviews></Customerreviews>
+      <Contactus></Contactus>
+      <Footer></Footer>
       
 
     </div>

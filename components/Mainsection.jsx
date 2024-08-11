@@ -11,7 +11,8 @@ export default function Mainsection() {
           جراحات امراض الذكورة وعلاج العقم و تأخر الإنجاب والضعف الجنسي
           </p>
           <div className='flex flex-row-reverse'>
-             <a target='_blank' href='https://wa.me/message/ZWN45EC2PODYG1' className=' text-sky-950 hover:text-sky-500 text-3xl ease-out duration-300 pl-4'><i className="ri-whatsapp-line"></i></a>
+             <a target='_blank' href='https://wa.me/message/KPAJU4M2BKSMD1' className=' text-sky-950 hover:text-sky-500 text-3xl ease-out duration-300 pl-4'><i className="ri-whatsapp-line"></i></a>
+            <a href="tel:+201022643370" className="text-sky-950 hover:text-sky-500 text-3xl ease-out duration-300 pl-4 pr-4'">< i className="ri-phone-fill"></i></a>
              <a target='_blank' href='https://www.facebook.com/p/%D8%AF-%D9%85%D8%AD%D9%85%D8%AF-%D9%85%D8%B4%D8%A7%D9%84%D9%8A-%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9-%D8%A7%D9%85%D8%B1%D8%A7%D8%B6-%D8%A7%D9%84%D8%B0%D9%83%D9%88%D8%B1%D8%A9-%D9%88%D8%B9%D9%84%D8%A7%D8%AC-%D8%A7%D9%84%D8%B9%D9%82%D9%85-Dr-Mohamed-mashaly-100091000506740' className=' text-sky-950 hover:text-sky-500 text-3xl ease-out duration-300 pl-4'><i className="ri-facebook-circle-fill"></i></a>
              <a target='_blank' href='https://www.instagram.com/dr.mohamedmashaly/' className=' text-sky-950 hover:text-sky-500 text-3xl ease-out duration-300 pl-4'><i className="ri-instagram-line"></i></a>
           </div>
